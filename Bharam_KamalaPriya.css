@@ -1,0 +1,55 @@
+
+body{
+    background-image: url("univ.jpg");
+    }
+    
+img {
+    position: absolute;
+    left: 0px;
+    bottom: 10px;
+    z-index: -1;
+}
+
+object {
+    position: absolute;
+    width: 50%;
+    height: 350px;
+    bottom: 30px;
+    z-index: -1;
+}
+
+h1{
+    color: black;
+    padding: 5px 8px;
+    text-align: center;
+    font-style: oblique;
+}
+
+label{
+    color: blue;
+    padding: 5px 8px;
+    text-align: center;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+
+ul{
+    position: absolute;
+    right: 15px;
+    top: 15px;
+     }
+
+li a{
+    font-style: italic;
+    color: black;
+    font-size: 30px;
+     }
+
+
+
+
+
+
+
+
